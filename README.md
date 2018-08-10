@@ -9,3 +9,4 @@
 - [Paulo Nakaima](https://github.com/guimpo)
 - [Caio Thizio](https://github.com/caiothizio)
 - [Vinicius Augutis](https://github.com/viniciusaugutis)
+- [Joao Salgado](https://github.com/joao-salgado)
