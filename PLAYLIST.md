@@ -29,6 +29,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Danse Macabre](https://www.youtube.com/watch?v=KqXpKibOaxA)
 - [mico](https://www.youtube.com/watch?v=SjU4u6C-eaA)
 
+## João Salgado
+- [DRAGON BALL SUPER Ultra Instinct (Trap Remix)](https://www.youtube.com/watch?v=5CCO5JzFtCc)
+- [Chop Suey](https://www.youtube.com/watch?v=CSvFpBOe8eY)
+- [Lonely Day](https://www.youtube.com/watch?v=DnGdoEa1tPg)
+- [In The End](https://www.youtube.com/watch?v=eVTXPUF4Oz4)
+- [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)
+- [mico](https://www.youtube.com/watch?v=MrTz5xjmso4)
 
 ## Vinícius Augutis
 - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
