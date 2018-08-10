@@ -44,3 +44,8 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Propaganda](https://www.youtube.com/watch?v=mQr7XemLs8s)
 - [Eu sei de cor](https://www.youtube.com/watch?v=sS2yCCi2Mek)
 - [mico](https://www.youtube.com/watch?v=iPhjz6zcnnI)
+
+## Rafael Sampy
+- [Dropkick Murphys - Rose Tattoo] (https://www.youtube.com/watch?v=9d8SzG4FPyM)
+
+##
