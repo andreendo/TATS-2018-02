@@ -48,3 +48,9 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 ## Rafael Sampy
 - [Dropkick Murphys - Rose Tattoo](https://www.youtube.com/watch?v=9d8SzG4FPyM)
 
+## Vinicius Baroni Soares
+- [Numb](https://www.youtube.com/watch?v=kXYiU_JCYtU)
+- [Imperfection](https://www.youtube.com/watch?v=NEJab1iGNcY)
+- [Lithium](https://www.youtube.com/watch?v=PJGpsL_XYQI)
+- [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
+- [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
