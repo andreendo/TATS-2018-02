@@ -8,3 +8,4 @@
 - [Jonata William](https://github.com/jonatawilliam)
 - [Paulo Nakaima](https://github.com/guimpo)
 - [Caio Thizio](https://github.com/caiothizio)
+- [Joao Salgado](https://github.com/joao-salgado)
