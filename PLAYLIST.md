@@ -28,3 +28,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Pedras e Sonhos](https://www.youtube.com/watch?v=EKPceNEVBLo)
 - [Danse Macabre](https://www.youtube.com/watch?v=KqXpKibOaxA)
 - [mico](https://www.youtube.com/watch?v=SjU4u6C-eaA)
+
+
+## Vinícius Augutis
+- [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
+- [A sua maneira](https://www.youtube.com/watch?v=nXLyy2ALJE4)
+- [Um minuto para o fim do mundo](https://www.youtube.com/watch?v=TqOMV6NsqrI)
+- [Propaganda](https://www.youtube.com/watch?v=mQr7XemLs8s)
+- [Eu sei de cor](https://www.youtube.com/watch?v=sS2yCCi2Mek)
+- [mico](https://www.youtube.com/watch?v=iPhjz6zcnnI)
