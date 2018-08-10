@@ -36,3 +36,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [In The End](https://www.youtube.com/watch?v=eVTXPUF4Oz4)
 - [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)
 - [mico](https://www.youtube.com/watch?v=MrTz5xjmso4)
+
+## Vinícius Augutis
+- [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
+- [A sua maneira](https://www.youtube.com/watch?v=nXLyy2ALJE4)
+- [Um minuto para o fim do mundo](https://www.youtube.com/watch?v=TqOMV6NsqrI)
+- [Propaganda](https://www.youtube.com/watch?v=mQr7XemLs8s)
+- [Eu sei de cor](https://www.youtube.com/watch?v=sS2yCCi2Mek)
+- [mico](https://www.youtube.com/watch?v=iPhjz6zcnnI)
