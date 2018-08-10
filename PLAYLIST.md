@@ -54,3 +54,10 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Lithium](https://www.youtube.com/watch?v=PJGpsL_XYQI)
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
+
+## Jefferson de França Filho
+- [Patience](https://www.youtube.com/watch?v=ErvgV4P6Fzc)
+- [Back In Black](https://www.youtube.com/watch?v=pAgnJDJN4VA)
+- [Highway to Hell](https://www.youtube.com/watch?v=l482T0yNkeo)
+- [Sobre Nós](https://www.youtube.com/watch?v=bD6ifecX6rs)
+- [mico](https://www.youtube.com/watch?v=zSWkcQOH1Kw&t=1s)
