@@ -37,6 +37,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)
 - [mico](https://www.youtube.com/watch?v=MrTz5xjmso4)
 
+## José Ede de Campos Neto
+- [R U Mine?](https://www.youtube.com/watch?v=ngzC_8zqInk)
+- [Clint Eastwood](https://www.youtube.com/watch?v=1V_xRb0x9aw)
+- [Time In A Bottle](https://www.youtube.com/watch?v=dO1rMeYnOmM)
+- [Intro](https://www.youtube.com/watch?v=AZ1pHmWhIuY)
+- [Tremor](https://www.youtube.com/watch?v=9vMh9f41pqE)
+- [mico](https://www.youtube.com/watch?v=suRsxpoAc5w)
+
 ## Vinícius Augutis
 - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
 - [A sua maneira](https://www.youtube.com/watch?v=nXLyy2ALJE4)
