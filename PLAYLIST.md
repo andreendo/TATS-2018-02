@@ -63,6 +63,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
 
+## Renata C. Gizze
+- [Tempo Ruim](https://www.youtube.com/watch?v=tcACObV39jY)
+- [Talvez A Deus](https://www.youtube.com/watch?v=m99DuDkhNrA)
+- [De Você Só Quero Amor](https://www.youtube.com/watch?v=S2EEo0AQ4iQ)
+- [3X4](https://www.youtube.com/watch?v=UPF6cj7GSnI)
+- [Mesa de Saloon](https://www.youtube.com/watch?v=KgcrcpAfA9Q)
+- [Mico](https://www.youtube.com/watch?v=4XKGfziuw5c)
+
 ## Dafny Garcia
 - [Pink+White](https://www.youtube.com/watch?v=uzS3WG6__G4)
 - [Get Free](https://www.youtube.com/watch?v=ytIfSuy_mOA)

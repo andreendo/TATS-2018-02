@@ -13,6 +13,7 @@
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
+- [Renata C. Gizze Figueiredo](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github.com/daphnemillss)
 - [Cintia Nunes](https://github.com/Cintiaa)
 - [Renato Barbosa Candido](https://github.com/r144)
