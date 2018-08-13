@@ -63,6 +63,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
 
+## Dafny Garcia
+- [Pink+White](https://www.youtube.com/watch?v=uzS3WG6__G4)
+- [Get Free](https://www.youtube.com/watch?v=ytIfSuy_mOA)
+- [Army Of Me](https://www.youtube.com/watch?v=6KxtgS2lU94)
+- [Houdini](https://www.youtube.com/watch?v=_GMQLjzVGfw)
+- [Caribbean Queen](https://www.youtube.com/watch?v=9f16Fw_K45s)
+- [Mico](https://www.youtube.com/watch?v=keWoksM8Sk0)
+
 ## Cíntia Nunes
 - [Sirens](https://youtu.be/4jZBwyG7HPs)
 - [Gone Away](https://youtu.be/BIQK4-9YFW0)
