@@ -13,4 +13,5 @@
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
+- [Renato Barbosa Candido](https://github.com/r144)
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
