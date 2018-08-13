@@ -37,6 +37,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)
 - [mico](https://www.youtube.com/watch?v=MrTz5xjmso4)
 
+## José Ede de Campos Neto
+- [R U Mine?](https://www.youtube.com/watch?v=ngzC_8zqInk)
+- [Clint Eastwood](https://www.youtube.com/watch?v=1V_xRb0x9aw)
+- [Time In A Bottle](https://www.youtube.com/watch?v=dO1rMeYnOmM)
+- [Intro](https://www.youtube.com/watch?v=AZ1pHmWhIuY)
+- [Tremor](https://www.youtube.com/watch?v=9vMh9f41pqE)
+- [mico](https://www.youtube.com/watch?v=suRsxpoAc5w)
+
 ## Vinícius Augutis
 - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
 - [A sua maneira](https://www.youtube.com/watch?v=nXLyy2ALJE4)
@@ -62,3 +70,26 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Houdini](https://www.youtube.com/watch?v=_GMQLjzVGfw)
 - [Caribbean Queen](https://www.youtube.com/watch?v=9f16Fw_K45s)
 - [Mico](https://www.youtube.com/watch?v=keWoksM8Sk0)
+
+## Cíntia Nunes
+- [Sirens](https://youtu.be/4jZBwyG7HPs)
+- [Gone Away](https://youtu.be/BIQK4-9YFW0)
+- [Dead End in Tokyo](https://youtu.be/JjIiK9VcIsA)
+- [More Than A Feeling](https://youtu.be/SSR6ZzjDZ94)
+- [Human](https://youtu.be/L3wKzyIN1yk)
+- [mico](https://youtu.be/Le_IyYLrUtQ)
+
+## Renato Barbosa Candido
+- [Viva - Zimbra](https://www.youtube.com/watch?v=sv8jzuVxB0s)
+- [AUTOCORRECT - Kongos](https://www.youtube.com/watch?v=zOgnA3CnARk)
+- [WOODKID - Iron](https://www.youtube.com/watch?v=vSkb0kDacjs&feature=youtu.be&list=RDvSkb0kDacjs)
+- [Fire - Barns Courtney](https://www.youtube.com/watch?v=hLEoictM8p4)
+- [Tool - The Pot](https://www.youtube.com/watch?v=R2F_hGwD26g)
+- [mico](https://www.youtube.com/watch?v=G1IbRujko-A&t)
+
+## Jefferson de França Filho
+- [Patience](https://www.youtube.com/watch?v=ErvgV4P6Fzc)
+- [Back In Black](https://www.youtube.com/watch?v=pAgnJDJN4VA)
+- [Highway to Hell](https://www.youtube.com/watch?v=l482T0yNkeo)
+- [Sobre Nós](https://www.youtube.com/watch?v=bD6ifecX6rs)
+- [mico](https://www.youtube.com/watch?v=zSWkcQOH1Kw&t=1s)
