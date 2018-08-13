@@ -63,6 +63,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
 
+## Cíntia Nunes
+- [Sirens](https://youtu.be/4jZBwyG7HPs)
+- [Gone Away](https://youtu.be/BIQK4-9YFW0)
+- [Dead End in Tokyo](https://youtu.be/JjIiK9VcIsA)
+- [More Than A Feeling](https://youtu.be/SSR6ZzjDZ94)
+- [Human](https://youtu.be/L3wKzyIN1yk)
+- [mico](https://youtu.be/Le_IyYLrUtQ)
+
 ## Renato Barbosa Candido
 - [Viva - Zimbra](https://www.youtube.com/watch?v=sv8jzuVxB0s)
 - [AUTOCORRECT - Kongos](https://www.youtube.com/watch?v=zOgnA3CnARk)
