@@ -54,3 +54,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Lithium](https://www.youtube.com/watch?v=PJGpsL_XYQI)
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
+
+## Renato Barbosa Candido
+- [Viva - Zimbra](https://www.youtube.com/watch?v=sv8jzuVxB0s)
+- [AUTOCORRECT - Kongos](https://www.youtube.com/watch?v=zOgnA3CnARk)
+- [WOODKID - Iron](https://www.youtube.com/watch?v=vSkb0kDacjs&feature=youtu.be&list=RDvSkb0kDacjs)
+- [Fire - Barns Courtney](https://www.youtube.com/watch?v=hLEoictM8p4)
+- [Tool - The Pot](https://www.youtube.com/watch?v=R2F_hGwD26g)
+- [mico](https://www.youtube.com/watch?v=G1IbRujko-A&t)
