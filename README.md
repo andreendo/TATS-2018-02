@@ -10,6 +10,7 @@
 - [Caio Thizio](https://github.com/caiothizio)
 - [Vinicius Augutis](https://github.com/viniciusaugutis)
 - [Joao Salgado](https://github.com/joao-salgado)
+- [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
