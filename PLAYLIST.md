@@ -101,3 +101,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Highway to Hell](https://www.youtube.com/watch?v=l482T0yNkeo)
 - [Sobre Nós](https://www.youtube.com/watch?v=bD6ifecX6rs)
 - [mico](https://www.youtube.com/watch?v=zSWkcQOH1Kw&t=1s)
+
+## Harrison Borges Barbosa
+- [The Final Cut](https://www.youtube.com/watch?v=zvARL0Hzcoo)
+- [Not Afraid](https://www.youtube.com/watch?v=j5-yKhDd64s)
+- [Yeah](https://www.youtube.com/watch?v=GxBSyx85Kp8)
+- [Pare o mundo que eu quero descer](https://www.youtube.com/watch?v=mD5ySxDC5Yw)
+- [Thunderstruck](https://www.youtube.com/watch?v=yeALQfS7PGo)
+- [mico](https://www.youtube.com/watch?v=yeALQfS7PGo)
+
