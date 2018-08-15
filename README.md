@@ -19,3 +19,4 @@
 - [Renato Barbosa Candido](https://github.com/r144)
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
 - [Harrison Borges Barbosa](https://github.com/HarrisonBorges)
+- [Diego Varela](https://github.com/Diego-Varela-Silva)
