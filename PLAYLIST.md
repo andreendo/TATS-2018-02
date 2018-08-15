@@ -144,3 +144,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Frustranting Sound](https://www.youtube.com/watch?v=aK89eeHhXdM)
 - [Creepin'](https://www.youtube.com/watch?v=laqMAKaYADY)
 - [mico](https://www.youtube.com/watch?v=1kfxnwqkdF8)
+
+## Henrique Nicolli
+
+- [Wild Kidz](https://www.youtube.com/watch?v=U879CBXLkM0)
+- [Memories](https://www.youtube.com/watch?v=qfm1tQwSZJ8)
+- [Ze Ramalho](https://www.youtube.com/watch?v=FBMMNBOXins)
+- [Bon Jovi](https://www.youtube.com/watch?v=lDK9QqIzhwk)
+- [AC/DC](https://www.youtube.com/watch?v=gEPmA3USJdI)
+- [mico](https://www.youtube.com/watch?v=g-b8lxvWqtc)

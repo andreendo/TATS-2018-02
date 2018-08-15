@@ -22,3 +22,4 @@
 - [Diego Varela](https://github.com/Diego-Varela-Silva)
 - [Kamilla Dallmann Nunes] (https://github.com/kamilladallmann)
 - [Rafael Nascimento dos Santos](https://github.com/rafaelnsantos)
+- [Henrique Biondo Nicolli Soares] (https://github.com/henriquenicolli)
