@@ -110,3 +110,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Thunderstruck](https://www.youtube.com/watch?v=yeALQfS7PGo)
 - [mico](https://www.youtube.com/watch?v=yeALQfS7PGo)
 
+## Diego Varela
+
+- [Sigala - Give Me Your Love](https://www.youtube.com/watch?v=ze6H75NCUs8)
+- [Tungevaag & Raaban - Wolf](https://www.youtube.com/watch?v=z209GmhoeTQ)
+- [Stromae - Tous Les Mêmes](https://www.youtube.com/watch?v=CAMWdvo71ls)
+- [Pigeon John - The Bomb](https://www.youtube.com/watch?v=iFAFA3B3CWU)
+- [Rafferty - Apple Pie](https://www.youtube.com/watch?v=hYEA7QGwJ_4)
+- [mico](https://www.youtube.com/watch?v=k85mRPqvMbE)
