@@ -4,7 +4,6 @@
 
 ## Alunos
 
-- [Nome do Aluno](https://github.com/NomeDoAluno)
 - [Jonata William](https://github.com/jonatawilliam)
 - [Paulo Nakaima](https://github.com/guimpo)
 - [Caio Thizio](https://github.com/caiothizio)
@@ -19,4 +18,5 @@
 - [Renato Barbosa Candido](https://github.com/r144)
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
 - [Harrison Borges Barbosa](https://github.com/HarrisonBorges)
+- [Gabriel Yukio Takazaki](https://github.com/GabrielTakazaki)
 - [Diego Varela](https://github.com/Diego-Varela-Silva)
