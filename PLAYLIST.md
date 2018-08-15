@@ -110,3 +110,10 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Thunderstruck](https://www.youtube.com/watch?v=yeALQfS7PGo)
 - [mico](https://www.youtube.com/watch?v=yeALQfS7PGo)
 
+## Gabriel Yukio Takazaki
+- [The Scientist](https://www.youtube.com/watch?v=gPgjj3kbzIg)
+- [Pompeii](https://www.youtube.com/watch?v=F90Cw4l-8NY)
+- [Couting Stars](https://www.youtube.com/watch?v=hT_nvWreIhg)
+- [My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)
+- [Dance, Dance](https://www.youtube.com/watch?v=C6MOKXm8x50&index=2&list=PLE88C6B54B0FD3CD3)
+- [mico](https://www.youtube.com/watch?v=tbNlMtqrYS0)
