@@ -20,3 +20,4 @@
 - [Harrison Borges Barbosa](https://github.com/HarrisonBorges)
 - [Gabriel Yukio Takazaki](https://github.com/GabrielTakazaki)
 - [Diego Varela](https://github.com/Diego-Varela-Silva)
+- [Kamilla Dallmann Nunes] (https://github.com/kamilladallmann)
