@@ -117,3 +117,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)
 - [Dance, Dance](https://www.youtube.com/watch?v=C6MOKXm8x50&index=2&list=PLE88C6B54B0FD3CD3)
 - [mico](https://www.youtube.com/watch?v=tbNlMtqrYS0)
+
+## Diego Varela
+
+- [Sigala - Give Me Your Love](https://www.youtube.com/watch?v=ze6H75NCUs8)
+- [Tungevaag & Raaban - Wolf](https://www.youtube.com/watch?v=z209GmhoeTQ)
+- [Stromae - Tous Les Mêmes](https://www.youtube.com/watch?v=CAMWdvo71ls)
+- [Pigeon John - The Bomb](https://www.youtube.com/watch?v=iFAFA3B3CWU)
+- [Rafferty - Apple Pie](https://www.youtube.com/watch?v=hYEA7QGwJ_4)
+- [mico](https://www.youtube.com/watch?v=k85mRPqvMbE)
