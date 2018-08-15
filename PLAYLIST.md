@@ -135,3 +135,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Bom Gosto - Patricinha de Olho Azul] (https://www.youtube.com/watch?v=1hkf-46m6uM)
 - [Justin Bieber - Love Yourself] (https://www.youtube.com/watch?v=oyEuk8j8imI) 
 - [mico] (https://www.youtube.com/watch?v=JbwQMDPQqS4&t=13s)
+
+## Rafael Santos
+
+- [Sweet Smoke](https://www.youtube.com/watch?v=NJ36d28plgc)
+- [Broke Down](https://www.youtube.com/watch?v=a1O-aBcSfaI)
+- [I Just Don't Know](https://www.youtube.com/watch?v=ih8l1q6mfgo)
+- [Frustranting Sound](https://www.youtube.com/watch?v=aK89eeHhXdM)
+- [Creepin'](https://www.youtube.com/watch?v=laqMAKaYADY)
+- [mico](https://www.youtube.com/watch?v=1kfxnwqkdF8)
