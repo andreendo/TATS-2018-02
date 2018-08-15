@@ -126,3 +126,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Pigeon John - The Bomb](https://www.youtube.com/watch?v=iFAFA3B3CWU)
 - [Rafferty - Apple Pie](https://www.youtube.com/watch?v=hYEA7QGwJ_4)
 - [mico](https://www.youtube.com/watch?v=k85mRPqvMbE)
+
+## Kamilla Dallmann
+
+- [Ekena - Todxs Putxs] (https://www.youtube.com/watch?v=tVK1tlhIIUE)
+- [Lily Allen - Hard Out Here] (https://www.youtube.com/watch?v=E0CazRHB0so)
+- [Engenheiros do Hawaii - Outras Frequências] (https://www.youtube.com/watch?v=viCAyZ0gdnY)
+- [Bom Gosto - Patricinha de Olho Azul] (https://www.youtube.com/watch?v=1hkf-46m6uM)
+- [Justin Bieber - Love Yourself] (https://www.youtube.com/watch?v=oyEuk8j8imI) 
+- [mico] (https://www.youtube.com/watch?v=JbwQMDPQqS4&t=13s)
