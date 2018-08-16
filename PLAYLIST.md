@@ -154,9 +154,21 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Creepin'](https://www.youtube.com/watch?v=laqMAKaYADY)
 - [mico](https://www.youtube.com/watch?v=1kfxnwqkdF8)
 
+## Henrique Nicolli
+
+- [Wild Kidz](https://www.youtube.com/watch?v=U879CBXLkM0)
+- [Memories](https://www.youtube.com/watch?v=qfm1tQwSZJ8)
+- [Ze Ramalho](https://www.youtube.com/watch?v=FBMMNBOXins)
+- [Bon Jovi](https://www.youtube.com/watch?v=lDK9QqIzhwk)
+- [AC/DC](https://www.youtube.com/watch?v=gEPmA3USJdI)
+- [mico](https://www.youtube.com/watch?v=g-b8lxvWqtc)
+
+=======
+
 # Lucas Coelho
 - [Time](https://www.youtube.com/watch?v=JwYX52BP2Sk)
 - [Dogs](https://www.youtube.com/watch?v=qiaF4kuxJco)
 - [Lucy In The Sky With Diamonds](https://www.youtube.com/watch?v=2RoA0QTZ-bM)
 - [Pé na Porta, Soco na Cara](https://www.youtube.com/watch?v=JjfAIq3uMnI)
 - [mico](https://www.youtube.com/watch?v=ySBx2FIpjx8)
+
