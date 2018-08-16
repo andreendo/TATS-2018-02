@@ -153,3 +153,10 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Frustranting Sound](https://www.youtube.com/watch?v=aK89eeHhXdM)
 - [Creepin'](https://www.youtube.com/watch?v=laqMAKaYADY)
 - [mico](https://www.youtube.com/watch?v=1kfxnwqkdF8)
+
+# Lucas Coelho
+- [Time](https://www.youtube.com/watch?v=JwYX52BP2Sk)
+- [Dogs](https://www.youtube.com/watch?v=qiaF4kuxJco)
+- [Lucy In The Sky With Diamonds](https://www.youtube.com/watch?v=2RoA0QTZ-bM)
+- [Pé na Porta, Soco na Cara](https://www.youtube.com/watch?v=JjfAIq3uMnI)
+- [mico](https://www.youtube.com/watch?v=ySBx2FIpjx8)
