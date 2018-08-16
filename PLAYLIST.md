@@ -63,6 +63,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Memórias](https://www.youtube.com/watch?v=cGN-9OQFMHw)
 - [Acima do Sol](https://www.youtube.com/watch?v=w9gewXcMFkA)
 
+## João Paulo Paes
+
+- [Eu vou construir - Juliano Son](https://www.youtube.com/watch?v=1htnqzaKLP8)
+- [Aqui como no céu - Geração Livre](https://www.youtube.com/watch?v=pt8QlDT4k_Y)
+- [Me leva pra casa - Israel Subirá](https://www.youtube.com/watch?v=80SJ8XHqKqM)
+- [Pra onde eu irei? - Morada](https://www.youtube.com/watch?v=0RjojWKqsFY)
+- [Beija-me com tua glória - Judson Oliveira](https://www.youtube.com/watch?v=ydxmaZ7e15U)
+- [Mico](https://www.youtube.com/watch?v=pEQruB_eGcE)
+
 ## Renata C. Gizze
 - [Tempo Ruim](https://www.youtube.com/watch?v=tcACObV39jY)
 - [Talvez A Deus](https://www.youtube.com/watch?v=m99DuDkhNrA)

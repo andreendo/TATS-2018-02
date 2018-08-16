@@ -10,6 +10,7 @@
 - [Vinicius Augutis](https://github.com/viniciusaugutis)
 - [Joao Salgado](https://github.com/joao-salgado)
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
+- [João Paulo Paes](https://github.com/paesjoaopaulo)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
 - [Renata C. Gizze Figueiredo](https://github.com/RenataGizzi)
